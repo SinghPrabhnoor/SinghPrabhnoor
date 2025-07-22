@@ -59,7 +59,7 @@
 - 🧰 **Linux Maintenance Toolkit**  
   CLI-based scripts for cleanup, updates, and system checks.  
   `Bash • Shell • Linux`
-  📂 [View Project](https://github.com/yash-kumarsharma/linux-toolkit)
+  📂 [View Project](https://github.com/SinghPrabhnoor/Linux-System-Maintenance-ToolKit.git)
 
 ---
 
