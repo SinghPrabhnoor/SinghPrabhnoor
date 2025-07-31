@@ -49,7 +49,7 @@
 - 🔐 **Admin Dashboard**  
   Secure panel with login/auth, CRUD operations, and MongoDB integration.  
   `Node.js • Express • MongoDB • EJS`
-  📂 [View Project](https://github.com/yash-kumarsharma/admin-product-dashboard)
+  📂 [View Project](https://github.com/SinghPrabhnoor/Admin-Product-Dashboard.git)
 
 - 🛍️ **RESTful Product API**  
   Modular and secure API with input validation and CRUD support.  
